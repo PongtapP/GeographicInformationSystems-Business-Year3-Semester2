@@ -1,0 +1,11 @@
+# QGIS temporary files and logs
+*.qgz~         # QGIS backup files
+*.qgd          # QGIS database files (if not intended for version control)
+*.qgs~         # Older QGIS project backup files
+*.qpt~         # QGIS print layout template backups
+
+# Common temporary files / caches
+*.tmp
+*.log
+.DS_Store      # macOS specific
+Thumbs.db      # Windows specific
